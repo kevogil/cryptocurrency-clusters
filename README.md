@@ -27,3 +27,8 @@ The dataset dimensions were then further reduced with t-SNE (t-distributed stoch
 <hr>
 
 ## Cluster Analysis with k-Means
+An elbow plot was visualized to see if we could determine the best number of clusters.
+<br>
+<p align="center">
+  <img src="images/elbow_plot.png">
+</p>
