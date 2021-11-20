@@ -35,6 +35,8 @@ An elbow plot was visualized to see if we could determine the best number of clu
 <br>
 <p align="center">Our findings were that we could not determine the ideal k cluster amount.</p>
 <br>
+
+## Recommendation
 There are many dimensions to existing cryptocurrencies that make clustering them extremely difficult.
 
 The number of clusters you select will be dependent on your business use case, meaning a universal classification system does not exist.
