@@ -14,3 +14,16 @@ There is no known classification system for cryptocurrency, and so we will first
 * Filtered for cryptocurrencies that have been mined.
 * Dataset features with text, including `Algorithm` and `ProofType`, were converted into numerical data to be comprehensible to a machine learning algorithm.
 * Dataset was standardized so that columns that contain larger values do not undully influence the outcome.
+
+<hr>
+
+## Dimensionality Reduction
+The number of cryptocurrency features dramatically increased when we converted features with text to numerical values.
+
+We used dimensionality reduction with PCA (Principal Component Analysis) to create a model that will preserve approximately 90% of the explained variance.
+
+The dataset dimensions were then further reduced with t-SNE (t-distributed stochastic neighbor embedding).
+
+<hr>
+
+## Cluster Analysis with k-Means
