@@ -33,7 +33,7 @@ An elbow plot was visualized to see if we could determine the best number of clu
   <img src="images/elbow_plot.png">
 </p>
 <br>
-<p align="center">Our findings were that we could not determine where the elbow of the plot was.</p>
+<p align="center">Our findings were that we could not determine the ideal k cluster amount.</p>
 <br>
 There are many dimensions to existing cryptocurrencies that make clustering them extremely difficult.
 
