@@ -32,3 +32,8 @@ An elbow plot was visualized to see if we could determine the best number of clu
 <p align="center">
   <img src="images/elbow_plot.png">
 </p>
+<br>
+Our findings were that we could not determine where the elbow of the plot was.
+
+There are many dimensions to existing cryptocurrencies that make clustering them extremely difficult.
+The number of clusters you select will be dependent on your business use case, meaning a universal classification system does not exist.
