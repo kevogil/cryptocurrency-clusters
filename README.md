@@ -10,3 +10,7 @@ There is no known classification system for cryptocurrency, and so we will first
 ## Data Preparation
 * Read `crypto_data.csv` into Pandas. The dataset was obtained from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist).
 * Filtered for currencies that are currently being traded.
+* Removed all rows that have at least one null value.
+* Filtered for cryptocurrencies that have been mined.
+* Dataset features with text, including `Algorithm` and `ProofType`, were converted into numerical data to be comprehensible to a machine learning algorithm.
+* Dataset was standardized so that columns that contain larger values do not undully influence the outcome.
