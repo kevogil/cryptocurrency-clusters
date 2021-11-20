@@ -8,4 +8,5 @@ There is no known classification system for cryptocurrency, and so we will first
 <hr>
 
 ## Data Preparation
-* Read `crypto_data.csv` into Pandas. The dataset was obtained from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist)</ul>
+* Read `crypto_data.csv` into Pandas. The dataset was obtained from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist).
+* Filtered for currencies that are currently being traded.
